@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "932350699292",
+    "firebase_url": "https://practicalcontact-8c7a7-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "practicalcontact-8c7a7",
+    "storage_bucket": "practicalcontact-8c7a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932350699292:android:79c012610e615ddd623cd9",
+        "android_client_info": {
+          "package_name": "my.edu.tarc.contact"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932350699292-p5kg17efebnvn7i3qd5apjf14jfg3jua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR810zDkK7GxsZMdxszVXBW3Y-giLQ8L0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932350699292-p5kg17efebnvn7i3qd5apjf14jfg3jua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
